@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ViniciusChiazza
-- 👀 I’m interested in becoming a front-end developer.
 - 📫 How to reach me https://www.linkedin.com/in/viniciuschiazza/ or viniciuschiazza@gmail.com
 - 🖥️ You can get a glimpse of my projects at https://codepen.io/viniciuschiazza
 <!---
